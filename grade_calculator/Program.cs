@@ -34,7 +34,6 @@ static int ReadGrade()
 
 static int ParseGrade(string gradeString)
 {
-
     bool parsedSuccessfully = int.TryParse(gradeString, out int grade);
     if (!parsedSuccessfully)
     {
