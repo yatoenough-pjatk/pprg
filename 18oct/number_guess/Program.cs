@@ -31,5 +31,4 @@ while (!guessed)
         guessed = true;
         Console.WriteLine("Brawo! Zgadłeś!");
     }
-
 }

@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Podaj imię: ");
-string name = Console.ReadLine();
+string name = Console.ReadLine()!;
 
 int gradeCount = 3;
 int sum = 0;
@@ -25,7 +25,7 @@ else
 static int ReadGrade()
 {
     Console.WriteLine("Podaj ocenę: ");
-    string? gradeString = Console.ReadLine();
+    string gradeString = Console.ReadLine()!;
 
     int grade = ParseGrade(gradeString);
 
