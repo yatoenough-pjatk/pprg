@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/18oct/">
+    <Project Path="18oct/grade_calculator/grade_calculator.csproj" />
+    <Project Path="18oct/number_guess/number_guess.csproj" />
+  </Folder>
+  <Folder Name="/8nov/">
+    <Project Path="8nov/task1/task1.csproj" />
+    <Project Path="8nov/task2/task2.csproj" />
+    <Project Path="8nov/task3/task3.csproj" />
+    <Project Path="8nov/task4/task4.csproj" />
+    <Project Path="8nov/task5/task5.csproj" />
+    <Project Path="8nov/task6/task6.csproj" />
+  </Folder>
+</Solution>
