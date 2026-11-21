@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Provide a number");
+﻿Console.WriteLine("Podaj liczbę:");
 
 var userInput = Console.ReadLine()!;
 var n = Int32.Parse(userInput);
@@ -9,4 +9,4 @@ for (int i = 1; i <= n; i++)
     sum += i;
 }
 
-Console.WriteLine($"Sum: {sum}");
+Console.WriteLine($"Suma od 1 do {n}: {sum}");
