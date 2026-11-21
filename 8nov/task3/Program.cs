@@ -12,7 +12,7 @@ var grades = new List<int>();
 
 for (int i = 0; i < n; i++)
 {
-    Console.Write("Podaj ocene: ");
+    Console.Write("Podaj ocenę: ");
     var grade = GetNumberFromUser();
     grades.Add(grade);
     Console.WriteLine();

@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Provide a number");
+﻿Console.WriteLine("Podaj liczbę: ");
 
 var userInput = Console.ReadLine()!;
 var n = Int32.Parse(userInput);

@@ -18,8 +18,8 @@
     return true;
 }
 
-Console.WriteLine("Podaj liczbe");
+Console.WriteLine("Podaj liczbę");
 
 var n = int.Parse(Console.ReadLine()!);
 
-Console.WriteLine(IsPrime(n) ? "Jest pierwsza" : "Nie jest pierwsza");
+Console.WriteLine(IsPrime(n) ? $"{n} jest pierwszą" : $"{n} nie jest pierwszą");
