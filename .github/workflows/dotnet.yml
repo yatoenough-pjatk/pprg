@@ -17,4 +17,5 @@ jobs:
         with:
           dotnet-version: 10.0.x
       - name: Build
+        working-directory: ./pprg/
         run: dotnet build

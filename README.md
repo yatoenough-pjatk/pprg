@@ -1,3 +1,4 @@
-# Podstawy programowania
+# Podstawy Programowania + Warsztat Programisty (PPRG + WARP)
 
-Repozytorium z zadaniami z Podstaw Programowania (PPRG). Wszystkie zadania i projekty są umieszczonę w katalogach o nazwie z datą zjazdu.
+[PPRG](pprg/README.md)
+[WARP](warp/README.md)
